@@ -5,17 +5,15 @@ ul{
   background:black;
   font-family:Arial, sans serif;
   font-size:12px;  
-    text-transform:uppercase;
+   text-transform:uppercase;
 }
 
 
 li{  
-    
   display:inline-block;
 }
 
 a{  
-  
   display:block;  
   padding:10px;
   color:white; 
